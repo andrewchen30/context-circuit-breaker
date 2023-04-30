@@ -11,6 +11,6 @@
   "author": "rueian",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^5.1.1"
+    "mocha": "^10.2.0"
   }
 }
